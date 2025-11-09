@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to top, rgba(0, 0, 100, 100), rgba(0, 0, 0));
+    height: 109vh;
+}
+
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    color: #fff;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+    color: #fff;
+}
+
+code {
+    font-family: 'JetBrains Mono', monospace;
+    background: #111;
+    border-radius: 12.5px;
+}
