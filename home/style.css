@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(to top, rgba(10, 10, 10, 1), rgba(50, 50, 50, 100));
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 109vh;
+}
+
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    color: #007dff;
+    font-weight: 50px;
+}
+
+h2 {
+    font-family: 'Work Sans', sans-serif;
+    color: #fff;
+}
+
+h3 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500px;
+    color: #fff;
+}
+
+code {
+    font-family: 'JetBrains Mono', monospace;
+    background-color: #111;
+    border-radius: 12.5px;
+}
+
+a {
+    color: #000;
+    font-family: 'Work Sans', sans-serif;
+}
+
+li {
+    color: #fff;
+    font-family: 'Work Sans', sans-serif;
+}
+
+button {
+    border-radius: 12.5px;
+    background: #ff0;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300px;
+    color: #000;
+}
